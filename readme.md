@@ -6,13 +6,13 @@
 <br>
 
 
-Hi! I'm a Self-Taught Developer and Strategic Analyst at [Sunlife Malaysia](https://sunlifemalaysia.com). I often find myself enjoy doing Design and Developing Frontend Tools for the community, especially for [Supabase](https://supabase.io) lately.
+Hi! I'm a Self-Taught Developer and Frontend Developer at [Troop Travel](https://www.trooptravel.com/). I often find myself enjoy doing Design and Developing Frontend Tools for the community, especially for [Supabase](https://supabase.com) lately.
 
 I love building Free & Open-Sourced tools for developers, because I believe in the essense of good-will. Where I provide free tools for people, in return they would appreciate my efforts.
 
 - 🔭 I’m currently working on [Supabase Schema v2](https://github.com/zernonia/supabase-schema)
 
-- 🌱 I’m constantly learning **Vue 3 and Nodejs**
+- 🌱 I’m constantly learning **Vue 3, Typescript, Nodejs & Postgres**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zernonia](https://github.com/zernonia?tab=repositories)
 
